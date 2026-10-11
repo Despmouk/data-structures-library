@@ -1,6 +1,6 @@
 # Data Structures Library
 
-A C++11 library and command-file runner for min-heaps, max-heaps, AVL trees, an undirected weighted graph, and an open-addressed hash table. Originally developed for a university data structures project in 2024; this revised version corrects command parsing and hashing and completes the graph operations.
+A C++11 library and command-file runner for min-heaps, max-heaps, AVL trees, an undirected weighted graph, and an open-addressed hash table. Originally developed for a university data structures project in 2024.
 
 ## Build and run
 
