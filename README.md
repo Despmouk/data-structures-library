@@ -97,4 +97,4 @@ make test CXXFLAGS="-std=c++11 -g -O1 -Wall -Wextra -Wpedantic -fsanitize=addres
 - **Δέσποινα Μουκάνου**
 - **Αριστοτέλης Κασσελούρης**
 
-for the Data Structures course.
+for the "Data Structures" course.
