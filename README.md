@@ -92,9 +92,9 @@ make clean
 make test CXXFLAGS="-std=c++11 -g -O1 -Wall -Wextra -Wpedantic -fsanitize=address,undefined -fno-omit-frame-pointer"
 ```
 
-Generated binaries and `output.txt` are excluded from Git. Editor caches are also excluded. The original coursework PDFs are omitted from this public source bundle because the technical report contains student numbers; a sanitized and updated report can be added separately.
+## Contributors
 
-## Original contributors
+- **Δέσποινα Μουκάνου**
+- **Αριστοτέλης Κασσελούρης**
 
-- Δέσποινα Μουκάνου
-- Αριστοτέλης Κασσελούρης
+for the Data Structures course.
